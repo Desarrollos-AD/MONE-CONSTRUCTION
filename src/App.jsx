@@ -12,6 +12,7 @@ import "swiper/css/pagination";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import PureCounter from "@srexi/purecounterjs";
+import HomeSEO from "./components/HomeSEO";
 
 function App() {
   useEffect(() => {
@@ -165,6 +166,7 @@ function App() {
 
   return (
     <>
+      <HomeSEO />
       <Header />
       <AppRouter />;
       <Footer />
