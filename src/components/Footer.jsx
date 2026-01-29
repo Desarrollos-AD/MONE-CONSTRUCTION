@@ -36,7 +36,7 @@ function Footer() {
               <h4>Sobre nuestros servicios</h4>
               <ul>
                 <li>
-                  <a href="../public/catalogo.pdf" target="_blank">
+                  <a href="/catalogo.pdf" target="_blank">
                     Catálogo
                   </a>
                 </li>

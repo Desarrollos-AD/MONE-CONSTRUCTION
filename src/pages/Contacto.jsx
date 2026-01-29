@@ -66,7 +66,7 @@ function Contacto() {
             </div>
           </div>
 
-          <div className="formulario">
+          <div className="formulario" data-aos="fade-up" data-aos-delay="100">
             <legend>Comunícate con nosotros</legend>
             <p>
               ¿Quieres nuestros servicios? Tienes alguna pregunta hasnoslos
