@@ -13,10 +13,6 @@
 
     }
 
-    .navbar li {
-        /* position: relative; */
-    }
-
     .navbar>ul>li {
         white-space: nowrap;
         padding: 10px 0 10px 28px;
@@ -142,7 +138,6 @@
 @media (max-width: 1279px) {
     .navbar {
         position: absolute !important;
-        /* position: fixed; */
         top: 0;
         right: -100%;
         width: 100%;
