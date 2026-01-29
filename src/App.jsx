@@ -166,7 +166,7 @@ function App() {
   return (
     <>
       <Header />
-      <AppRouter />;
+      <AppRouter />
       <Footer />
       <a
         href="#"

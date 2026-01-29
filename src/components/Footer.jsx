@@ -8,7 +8,9 @@ function Footer() {
           <div className="footer__column">
             <div className="">
               <div className="footer-info">
+                <Link to="/">
                 <h3>MONE</h3>
+                </Link>
                 <p>
                   <strong>Correo:</strong>{" "}
                   <a href="mailto:moneinmobiliaria0@gmail.com">
@@ -34,7 +36,7 @@ function Footer() {
               <h4>Sobre nuestros servicios</h4>
               <ul>
                 <li>
-                  <a href="/CATALOGO_DE_SERVICIOS_MONE.pdf" target="_blank">
+                  <a href="../public/catalogo.pdf" target="_blank">
                     Catálogo
                   </a>
                 </li>
@@ -47,7 +49,7 @@ function Footer() {
               <div className="copyright">
                 Marca registrada
                 <strong>
-                  <span>MONE &trade;</span>
+                  <span> MONE &trade;</span>
                 </strong>
                 . Todos los derechos Reservados
               </div>
@@ -55,7 +57,7 @@ function Footer() {
                 <small>
                   {" "}
                   <small>
-                    <small>
+                    {/* <small>
                       Diseño{" "}
                       <a
                         href="https://bootstrapmade.com/"
@@ -72,7 +74,7 @@ function Footer() {
                       >
                         ThemeWagon
                       </a>
-                    </small>
+                    </small> */}
                   </small>
                 </small>
               </div>

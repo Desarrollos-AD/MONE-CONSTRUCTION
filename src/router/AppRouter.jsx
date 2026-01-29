@@ -5,6 +5,7 @@ import Nosotros from "../pages/Nosotros";
 import Servicios from "../pages/Servicios";
 import Productos from "../pages/Productos";
 import Contacto from "../pages/Contacto";
+import Terminos from "../pages/Terminos";
 
 function AppRouter() {
   return (
@@ -14,6 +15,7 @@ function AppRouter() {
         <Route path="/servicios" element={<Servicios />} />
         <Route path="/productos" element={<Productos />} />
         <Route path="/contacto" element={<Contacto />} />
+        <Route path="/terminos" element={<Terminos />} />
       </Routes>
   );
 }
