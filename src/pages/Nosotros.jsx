@@ -2,6 +2,8 @@ import about from "../assets/img/about.jpg";
 import breadcrumbs from "../assets/img/breadcrumbs-bg.jpg";
 import services1 from "../assets/img/alt-services.jpg";
 import services2 from "../assets/img/alt-services-2.jpg";
+import "./Nosotros.css"
+
 function Nosotros() {
   return (
     <>
@@ -41,29 +43,31 @@ function Nosotros() {
                     sostenible para nuestros clientes y sus comunidades.
                   </p>
 
-                  <h4> valores </h4>
-                  <ul>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Compromiso</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Inovación</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Calidad</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Responsabilidad</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-check-circle"></i>{" "}
-                      <span>Sostenibilidad </span>
-                    </li>
-                  </ul>
+                  <div className="valores">
+                    <h4> valores </h4>
+                    <ul>
+                      <li>
+                        <i className="bi bi-check-circle"></i>{" "}
+                        <span>Compromiso</span>
+                      </li>
+                      <li>
+                        <i className="bi bi-check-circle"></i>{" "}
+                        <span>Inovación</span>
+                      </li>
+                      <li>
+                        <i className="bi bi-check-circle"></i>{" "}
+                        <span>Calidad</span>
+                      </li>
+                      <li>
+                        <i className="bi bi-check-circle"></i>{" "}
+                        <span>Responsabilidad</span>
+                      </li>
+                      <li>
+                        <i className="bi bi-check-circle"></i>{" "}
+                        <span>Sostenibilidad </span>
+                      </li>
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>

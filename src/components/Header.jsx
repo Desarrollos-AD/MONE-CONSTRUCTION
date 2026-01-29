@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import Nav from "../components/Nav";
 import { useState } from "react";
-import "./Header.css";
 
 function Header() {
   const [mobileNav, setMobileNav] = useState(false);

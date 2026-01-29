@@ -41,7 +41,7 @@ function Contacto() {
               <div className="col-lg-4">
                 <div className="info-item  d-flex flex-column justify-content-center align-items-center">
                   <i className="bi bi-envelope"></i>
-                  <h3>Envia un mensaje a nuestro correo</h3>
+                  <h3>Envía un mensaje a nuestro correo</h3>
                   <a href="mailto:moneinmobiliaria0@gmail.com">
                     moneinmobiliaria0@gmail.com
                   </a>
@@ -51,7 +51,7 @@ function Contacto() {
               <div className="col-lg-4 col-md-6">
                 <div className="info-item d-flex flex-column justify-content-center align-items-center">
                   <i className="bi bi-map"></i>
-                  <h3>Visitanos</h3>
+                  <h3>visítanos</h3>
                   <p>Boca del Rio Veracruz</p>
                 </div>
               </div>
@@ -69,7 +69,7 @@ function Contacto() {
           <div className="formulario" data-aos="fade-up" data-aos-delay="100">
             <legend>Comunícate con nosotros</legend>
             <p>
-              ¿Quieres nuestros servicios? Tienes alguna pregunta hasnoslos
+              ¿Quieres nuestros servicios? Tienes alguna pregunta háznoslo
               saber llenando el siguiente formulario
             </p>
             <form onSubmit={handleSubmit} className="contacto__formulario">

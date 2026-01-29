@@ -30,13 +30,6 @@ function ProductosCards() {
             >
               <i className="bi bi-zoom-in"></i>
             </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
-            </a>
           </div>
         </div>
       </div>
@@ -57,13 +50,6 @@ function ProductosCards() {
             >
               <i className="bi bi-zoom-in"></i>
             </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
-            </a>
           </div>
         </div>
       </div>
@@ -81,13 +67,6 @@ function ProductosCards() {
               className="glightbox preview-link"
             >
               <i className="bi bi-zoom-in"></i>
-            </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
             </a>
           </div>
         </div>
@@ -107,13 +86,6 @@ function ProductosCards() {
             >
               <i className="bi bi-zoom-in"></i>
             </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
-            </a>
           </div>
         </div>
       </div>
@@ -131,13 +103,6 @@ function ProductosCards() {
               className="glightbox preview-link"
             >
               <i className="bi bi-zoom-in"></i>
-            </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
             </a>
           </div>
         </div>
@@ -161,13 +126,6 @@ function ProductosCards() {
             >
               <i className="bi bi-zoom-in"></i>
             </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
-            </a>
           </div>
         </div>
       </div>
@@ -185,13 +143,6 @@ function ProductosCards() {
               className="glightbox preview-link"
             >
               <i className="bi bi-zoom-in"></i>
-            </a>
-            <a
-              href="project-details.html"
-              title="More Details"
-              className="details-link"
-            >
-              <i className="bi bi-link-45deg"></i>
             </a>
           </div>
         </div>

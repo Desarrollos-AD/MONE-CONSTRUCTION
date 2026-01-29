@@ -13,7 +13,7 @@ function ServiciosCards() {
         <div className="section-header">
           <h2>Servicios</h2>
 
-          <p>Descubre soluciones a tu medida!</p>
+          <p>¡Descubre soluciones a tu medida!</p>
         </div>
 
         <div className="row gy-4">
@@ -37,7 +37,7 @@ function ServiciosCards() {
                 href="mailto:info@mone.com?subject=Cotizacion de servicios&body=Hola, estoy interesado en proyectos estructurales e instalación hidráulica"
                 className="readmore stretched-link"
               >
-                Contactanos <i className="bi bi-arrow-right"></i>
+                contáctenos <i className="bi bi-arrow-right"></i>
               </a>
             </div>
           </div>
@@ -62,7 +62,7 @@ function ServiciosCards() {
                 href="mailto:info@mone.com?subject=Cotizacion de servicios&body=Hola, estoy interesado en desarrollo y asesoría técnica"
                 className="readmore stretched-link"
               >
-                Contactanos <i className="bi bi-arrow-right"></i>
+                contáctenos <i className="bi bi-arrow-right"></i>
               </a>
             </div>
           </div>
@@ -85,7 +85,7 @@ function ServiciosCards() {
                 href="mailto:info@mone.com?subject=Cotizacion de servicios&body=Hola, estoy interesado en compra y venta de bienes muebles"
                 className="readmore stretched-link"
               >
-                Contactanos <i className="bi bi-arrow-right"></i>
+                contáctenos <i className="bi bi-arrow-right"></i>
               </a>
             </div>
           </div>
@@ -109,7 +109,7 @@ function ServiciosCards() {
                 href="mailto:info@mone.com?subject=Cotizacion de servicios&body=Hola, estoy interesado en construcción, diseño y supervisión de obras"
                 className="readmore stretched-link"
               >
-                Contactanos <i className="bi bi-arrow-right"></i>
+                contáctenos <i className="bi bi-arrow-right"></i>
               </a>
             </div>
           </div>
@@ -133,7 +133,7 @@ function ServiciosCards() {
                 href="mailto:info@mone.com?subject=Cotizacion de servicios&body=Hola, estoy interesado en arrendamiento y acondicionamiento de oficinas y bodegas"
                 className="readmore stretched-link"
               >
-                Contactanos <i className="bi bi-arrow-right"></i>
+                contáctenos <i className="bi bi-arrow-right"></i>
               </a>
             </div>
           </div>
