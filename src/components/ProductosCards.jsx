@@ -15,7 +15,7 @@ function ProductosCards() {
     >
       <div className="col-lg-4 col-md-6 portfolio-item filter-remodeling">
         <div className="portfolio-content h-100">
-          <img src={construction1} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400" src={construction1} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>Proyectos de construccion</h4>
             <p>
@@ -36,7 +36,7 @@ function ProductosCards() {
 
       <div className="col-lg-4 col-md-6 portfolio-item filter-construction">
         <div className="portfolio-content h-100">
-          <img src={remodeling1} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400"src={remodeling1} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>Productos para construcción</h4>
             <p>
@@ -56,7 +56,7 @@ function ProductosCards() {
 
       <div className="col-lg-4 col-md-6 portfolio-item filter-construction">
         <div className="portfolio-content h-100">
-          <img src={repairs1} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400"src={repairs1} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>construcción</h4>
             <p>Varilla corrugada y varilla T-6000</p>
@@ -74,7 +74,7 @@ function ProductosCards() {
 
       <div className="col-lg-4 col-md-6 portfolio-item filter-construction">
         <div className="portfolio-content h-100">
-          <img src={design1} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400"src={design1} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>Aluminio</h4>
             <p>Lamina de aluminio en hoja antiderrapante y disco</p>
@@ -92,7 +92,7 @@ function ProductosCards() {
 
       <div className="col-lg-4 col-md-6 portfolio-item filter-remodeling">
         <div className="portfolio-content h-100">
-          <img src={construction3} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400"src={construction3} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>urbanización</h4>
             <p>Fabricación y urbanización de toda clase de predios</p>
@@ -110,7 +110,7 @@ function ProductosCards() {
 
       <div className="col-lg-4 col-md-6 portfolio-item filter-construction">
         <div className="portfolio-content h-100">
-          <img src={construction2} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400"src={construction2} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>Soporte estructural</h4>
             <p>
@@ -132,7 +132,7 @@ function ProductosCards() {
 
       <div className="col-lg-4 col-md-6 portfolio-item filter-remodeling">
         <div className="portfolio-content h-100">
-          <img src={remodeling3} className="img-fluid" alt="" />
+          <img loading="lazy" width="400"  height="400"src={remodeling3} className="img-fluid" alt="" />
           <div className="portfolio-info">
             <h4>enagenación de bienes</h4>
             <p>compra venta y aquisición de maquila </p>

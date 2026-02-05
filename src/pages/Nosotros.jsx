@@ -31,8 +31,8 @@ function Nosotros() {
               <div className="col-lg-7">
                 <h2>Construyendo el futuro con calidad y compromiso.</h2>
                 <div className="our-story">
-                  <h4>Nosotros</h4>
-                  <h3>¿Quiénes somos?</h3>
+                  <h3>Nosotros</h3>
+                  <h4>¿Quiénes somos?</h4>
                   <p>
                     MONE Construcción es una empresa dedicada a la planeación,
                     diseño, supervisión y ejecución de proyectos de ingeniería

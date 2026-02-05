@@ -22,6 +22,7 @@ function Inicio() {
                   alt="Logo de MONE"
                   data-aos="fade-down"
                   className="logo-mone"
+                  loading="eager"
                 />
                 <p data-aos="fade-up">
                   Nos especializamos en ofrecer soluciones integrales para
@@ -128,7 +129,7 @@ function Inicio() {
               >
                 <div className="post-item position-relative h-100">
                   <div className="post-img position-relative overflow-hidden">
-                    <img src={blog1} className="img-fluid" alt="" />
+                    <img loading="lazy" width="400"  height="400"src={blog1} className="img-fluid" alt="" />
                     <span className="post-date">CATÁLOGO</span>
                   </div>
 

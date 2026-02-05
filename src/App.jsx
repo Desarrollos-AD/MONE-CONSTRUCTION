@@ -30,34 +30,34 @@ function App() {
     /* =====================
      Mobile nav toggle
   ====================== */
-    const mobileNavShow = document.querySelector(".mobile-nav-show");
-    const mobileNavHide = document.querySelector(".mobile-nav-hide");
+    // const mobileNavShow = document.querySelector(".mobile-nav-show");
+    // const mobileNavHide = document.querySelector(".mobile-nav-hide");
 
-    const mobileNavToggle = () => {
-      document.body.classList.toggle("mobile-nav-active");
-      mobileNavShow?.classList.toggle("d-none");
-      mobileNavHide?.classList.toggle("d-none");
-    };
+    // const mobileNavToggle = () => {
+    //   document.body.classList.toggle("mobile-nav-active");
+    //   mobileNavShow?.classList.toggle("d-none");
+    //   mobileNavHide?.classList.toggle("d-none");
+    // };
 
-    document.querySelectorAll(".mobile-nav-toggle").forEach((el) => {
-      el.addEventListener("click", (e) => {
-        e.preventDefault();
-        mobileNavToggle();
-      });
-    });
+    // document.querySelectorAll(".mobile-nav-toggle").forEach((el) => {
+    //   el.addEventListener("click", (e) => {
+    //     e.preventDefault();
+    //     mobileNavToggle();
+    //   });
+    // });
 
     /* Hide mobile nav on hash links */
-    document.querySelectorAll("#navbar a").forEach((link) => {
-      if (!link.hash) return;
-      const section = document.querySelector(link.hash);
-      if (!section) return;
+    // document.querySelectorAll("#navbar a").forEach((link) => {
+    //   if (!link.hash) return;
+    //   const section = document.querySelector(link.hash);
+    //   if (!section) return;
 
-      link.addEventListener("click", () => {
-        if (document.body.classList.contains("mobile-nav-active")) {
-          mobileNavToggle();
-        }
-      });
-    });
+    //   link.addEventListener("click", () => {
+    //     if (document.body.classList.contains("mobile-nav-active")) {
+    //       mobileNavToggle();
+    //     }
+    //   });
+    // });
 
     /* Dropdowns */
     document.querySelectorAll(".navbar .dropdown > a").forEach((el) => {
@@ -170,9 +170,9 @@ function App() {
       <Footer />
       <a
         href="#"
-        class="scroll-top d-flex align-items-center justify-content-center"
+        className="scroll-top d-flex align-items-center justify-content-center"
       >
-        <i class="bi bi-arrow-up-short"></i>
+        <i className="bi bi-arrow-up-short"></i>
       </a>
     </>
   );
