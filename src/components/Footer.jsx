@@ -13,8 +13,8 @@ function Footer() {
                 </Link>
                 <p>
                   <strong>Correo:</strong>{" "}
-                  <a href="mailto:moneinmobiliaria0@gmail.com">
-                    moneinmobiliaria0@gmail.com
+                  <a href="mailto:administracion@inmobiliariamone.com.mx">
+                    administracion@inmobiliariamone.com.mx
                   </a>
                 </p>
               </div>

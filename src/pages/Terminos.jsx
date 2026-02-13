@@ -24,7 +24,7 @@ function Terminos() {
               Federal de Protección de Datos Personales en Posesión de los
               Particulares. El responsable del tratamiento de la información es
               quien administra el presente sitio web, con correo electrónico de
-              contacto moneinmobiliaria0@gmail.com, es responsable del uso y
+              contacto administracion@inmobiliariamone.com.mx, es responsable del uso y
               protección de la información que se genera durante la navegación
               en el presente sitio web, y al respecto informa lo siguiente:
             </p>
@@ -34,7 +34,7 @@ function Terminos() {
               El responsable es el responsable del tratamiento de la información
               generada por el uso de este sitio web. Cualquier asunto
               relacionado con el presente Aviso de Privacidad podrá atenderse a
-              través del correo electrónico: <br /> moneinmobiliaria0@gmail.com
+              través del correo electrónico: <br /> administracion@inmobiliariamone.com.mx
             </p>
 
             <h3>II. Datos personales que se recaban</h3>
@@ -90,7 +90,7 @@ function Terminos() {
               derechos ARCO se limita a solicitudes de información o
               aclaraciones relacionadas con el presente Aviso de Privacidad.
               <br />
-              moneinmobiliaria0@gmail.com
+              administracion@inmobiliariamone.com.mx
             </p>
 
             <h3>VI. Uso de cookies y tecnologías de rastreo</h3>

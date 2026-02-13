@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 import ProductosCards from "../components/ProductosCards";
 import logoMone from "../assets/img/mone.svg";
@@ -8,6 +7,7 @@ import hero2 from "../assets/img/hero-carousel/hero-carousel-2.jpg";
 import hero3 from "../assets/img/hero-carousel/hero-carousel-3.jpg";
 import hero4 from "../assets/img/hero-carousel/hero-carousel-4.jpg";
 import ServiciosCards from "../components/ServiciosCards";
+import "../pages/Inicio.css";
 
 function Inicio() {
   return (
@@ -16,12 +16,12 @@ function Inicio() {
         <div className="info d-flex align-items-center">
           <div className="container">
             <div className="row justify-content-center">
-              <div className="col-lg-6 text-center">
+              <div className="logo col-lg-6 text-center">
                 <img
                   src={logoMone}
                   alt="Logo de MONE"
                   data-aos="fade-down"
-                  className="logo-mone"
+                  className="logo__mone"
                   loading="eager"
                 />
                 <p data-aos="fade-up">
@@ -129,7 +129,14 @@ function Inicio() {
               >
                 <div className="post-item position-relative h-100">
                   <div className="post-img position-relative overflow-hidden">
-                    <img loading="lazy" width="400"  height="400"src={blog1} className="img-fluid" alt="" />
+                    <img
+                      loading="lazy"
+                      width="400"
+                      height="400"
+                      src={blog1}
+                      className="img-fluid"
+                      alt=""
+                    />
                     <span className="post-date">CATÁLOGO</span>
                   </div>
 

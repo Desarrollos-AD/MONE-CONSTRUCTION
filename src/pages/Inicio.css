@@ -1,0 +1,14 @@
+.logo__mone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    background-color: #fff;
+    padding: 2.5rem 7rem;
+    border: solid #000 10px;
+    border-radius: 40% 25% 25% 25%;
+    margin: 2rem 0;
+}
+.logo{
+    align-content: center;
+}

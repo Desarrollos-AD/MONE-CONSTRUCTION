@@ -2,7 +2,6 @@ import about from "../assets/img/about.jpg";
 import breadcrumbs from "../assets/img/breadcrumbs-bg.jpg";
 import services1 from "../assets/img/alt-services.jpg";
 import services2 from "../assets/img/alt-services-2.jpg";
-import "./Nosotros.css"
 
 function Nosotros() {
   return (
@@ -18,7 +17,7 @@ function Nosotros() {
           >
             <h2>¿Que nos impulsa?</h2>
           </div>
-        </div>
+        </div> 
 
         <section id="about" className="about">
           <div className="container" data-aos="fade-up">
@@ -34,7 +33,7 @@ function Nosotros() {
                   <h3>Nosotros</h3>
                   <h4>¿Quiénes somos?</h4>
                   <p>
-                    MONE Construcción es una empresa dedicada a la planeación,
+                    Inmobiliaria MONE es una empresa dedicada a la planeación,
                     diseño, supervisión y ejecución de proyectos de ingeniería
                     civil y construcción, tanto en los sectores público como
                     privado. Nuestro equipo está conformado por especialistas

@@ -42,8 +42,8 @@ function Contacto() {
                 <div className="info-item  d-flex flex-column justify-content-center align-items-center">
                   <i className="bi bi-envelope"></i>
                   <h3>Envía un mensaje a nuestro correo</h3>
-                  <a href="mailto:moneinmobiliaria0@gmail.com">
-                    moneinmobiliaria0@gmail.com
+                  <a href="mailto:administracion@inmobiliariamone.com.mx">
+                    administracion@inmobiliariamone.com.mx
                   </a>
                 </div>
               </div>
